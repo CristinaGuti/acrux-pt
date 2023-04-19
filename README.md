@@ -1,7 +1,7 @@
 # acrux-pt
 
-# Event routes
-## Base URL / event
+## Event routes
+
 | HHTPP Method | URL path                  | Description                                  |
 |--------------|---------------------------|----------------------------------------------|
 | GET          | /api                      | Mensaje de comprobación                      |
